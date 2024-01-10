@@ -30,6 +30,8 @@
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
-    "vue": "^3.4.7"
+    "remark": "^15.0.1",
+    "vue": "^3.4.7",
+    "vue3-ace-editor": "^2.2.4"
   }
 }
