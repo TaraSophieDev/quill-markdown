@@ -31,6 +31,7 @@
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
     "remark": "^15.0.1",
+    "sass": "^1.69.7",
     "vue": "^3.4.7",
     "vue3-ace-editor": "^2.2.4"
   }
